@@ -1,0 +1,174 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+<head>
+  <meta http-equiv='content-type' content='text/html; charset=utf-8' />
+  <link rel='shortcut icon' type='image/x-icon' href='imgs/shared/favicon.ico' />
+  <meta name='author' content='barrd' />
+  <style type='text/css'>
+  /*<![CDATA[*/
+    @import url('common/screen.css');
+  /*]]>*/
+  </style>  
+  <title>BWH | Company Details</title>
+</head>
+<body>
+<div id='headWrapper'>
+  <div id='headLogo'>
+    <h1>BushWise Hosting</h1>
+    <p>
+    <a name='TOP' class='noLink'>making sense of the jungle out there...</a>
+    </p>
+    <div class='logoRh'>
+      EXPERIMENTAL | DEMO ONLY
+    </div>
+  </div>
+  <div id='headMenu'>
+    <ul>
+    <li>
+      <a href='index.html' title='Homepage'>Homepage</a>
+    </li><li>
+      <a href='contact.html' title='Contact Us'>Contact BushWise</a>
+    </li><li>
+      <a href='solutions.html' title='Hosting Overview'>BWH Hosting Overview</a>
+    </li><li>
+      <a href='news.html' title='News Page'>BushWise News Page</a>
+    </li>
+    </ul>
+    <div class='menuRh'>
+      <ul>
+      <li>
+        <a href='register.html' title='Register'>Register</a>
+      </li><li>
+        <a href='login.html' title='Site Login'>Site Login</a>
+      </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div id='mainContWrapper'>
+  <div id='mainCont'>
+    <h2>BWH - Company Details</h2>
+    <h3>Everything you wanted to know about us but were afraid to ask...</h3>
+    <p>
+    This page aims to provide an overview of everything about BushWise Hosting, from contact details to our philosophy and client relations policies. If you wish to send us a mail, please go to the <a href='contact.html' title='Contact Us'>contact page</a>.
+    </p>
+    <h4>A short introduction to the Company:</h4>
+    <p>
+    The staff is made up of full time employees and contracted consultants ( based around the globe ). By use of <acronym title='Internet Relay Chat'>IRC</acronym>, <acronym title='Voice over Internet Protocol'>VoIP</acronym>, VideoConferencing and a host of other Internet based communication applications the team work closely together to see any bespoke projects carefully completed within an arranged time scale and cost. Day to day services surrounding Hosting of Sites and their various functions are handled and supported by professionals on a <b>24</b> / <b>7</b> basis.
+    </p>
+    <h4>Core values of BushWise Hosting and its staff:</h4>
+    <ul>
+    <li>
+      We aim to be good citizens and always maintain a sense of humour.<sup>1</sup>
+    </li><li>
+      We prefer partners and clients who share our values and mindset.<sup>1</sup>
+    </li><li>
+      We are a Virtual Company, Networking with others.<sup>1</sup>
+    </li><li>
+      We try our very best to answer all eMails and provide appropriate help / support.
+    </li><li>
+      We are colour blind...<sup>2</sup>
+    </li>
+    </ul>
+    <div class='smTxt'>
+      <p>
+      1: Extracts inspired by MySQL AB documentation with some minor alterations.
+      <br /> 
+      2: Matters not what race, colour or creed, one and all are treated with the same respect and courtesy.
+      </p>
+    </div>
+    <h3>What we will do, and what we won't:</h3>
+    <p>
+    The following statements will be carried out to the very best of our abilities. After all, to err is to be human.
+    </p>
+    <h4>We will...</h4>
+    <ul>
+    <li>
+      Provide stable, secure and well documented products &amp; services.
+    </li><li>
+      Protect data that any client, partner or affiliate provides.
+    </li><li>
+      Provide appropriate data to clients securely as long as it does not contravene our <a href='privacy.html' title='BWH Privacy Policy'>Privacy Policy</a>.
+    </li><li>
+      Answer <b>all</b> support requests for a <b>purchased</b> product or service.
+    </li>
+    </ul>
+    <h4>We will not...</h4>
+    <ul>
+    <li>
+      Pass off any shoddy, second rate, untested software.
+    </li><li>
+      Sell or otherwise giveaway data to any persons not officially <a href='privacy.html' title='BWH Privacy Policy'>entitled to request</a> said data.
+    </li><li>
+      Tolerate any form of racisim or prejudice toward any person, persons or beliefs.
+    </li><li>
+      Wear suits and ties. OK, maybe some people here will if <i>really really</i> necessary.
+    </li>
+    </ul>
+  </div>
+  <div id='vertRhNav'>
+    <ul>
+    <li class='navHeader'>
+      Hosting &amp; Solutions
+    </li><li>
+      <a href='standard_indx.html' title='Standard Hosting'>Standard WebSite Hosting</a>
+    </li><li>
+      <a href='ecommerce_indx.html' title='eCommerce Hosting'>eCommerce Hosting</a>
+    </li><li>
+      <a href='bookings_indx.html' title='Bookings Hosting'>Online Bookings Hosting</a>
+    </li><li>
+      <a href='cms_indx.html' title='CMS Hosting Details'>Content Management</a>
+    </li><li>
+      <a href='design_indx.html' title='Design &amp; Consultancy'>Design &amp; Consultancy</a>
+    </li>
+    </ul>
+    <ul>
+    <li class='navHeader'>
+      BushWise Hosting CC
+    </li><li class='navCurrent'>
+      Company Overview
+    </li><li>
+      <a href='security.html' title='Security Details'>BWH Sites Security Details</a>
+    </li><li>
+      <a href='news.html' title='BWH News Page'>BushWise News Page</a>
+    </li><li>
+      <a href='contact.html' title='Contact Us'>Contact BushWise</a>
+    </li>
+    </ul>
+    <ul>
+    <li class='navHeader'>
+      BushWise Policies
+    </li><li>
+      <a href='terms_of_use.html' title='Terms of Use Policy'>Terms of Use Policy</a>
+    </li><li>
+      <a href='data_protection.html' title='Data Protection laws'>Data Protection laws</a>
+    </li><li>
+      <a href='privacy.html' title='BWH Privacy Policy'>Privacy Policy</a>
+    </li>
+    </ul>
+    <ul>
+    <li class='navHeader'>
+      BushWise Help Pages
+    </li><li>
+      <a href='acronyms.html' title='Acronyms &amp; Abbreviations'>Acronyms &amp; Abbreviations</a>
+    </li><li>
+      <a href='conventions.html' title='Site Conventions'>Site Conventions</a>
+    </li><li>
+      <a href='terminology.html' title='Site Terminology Glossary'>Site Terminology Glossary</a>
+    </li>
+    </ul>
+    <br />
+  </div>
+</div>
+<div id='footer'>
+  <div class='halfFL'>
+    // Ends | <a href='#TOP' title='Top of Page'>^ Top</a> | <a href='index.html' title='Homepage'>Homepage</a> | <a href='contact.html' title='Contact Us'>Contact</a> |
+  </div>
+  <div class='halfFR txtR'>
+    &copy; BushWise Hosting &amp; Solutions 2008
+    <br />All Logos and Trademarks remain the property of their individual owners E&amp;OE
+  </div>
+  <br />
+</div>
+</body>
+</html>

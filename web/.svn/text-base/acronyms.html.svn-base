@@ -1,0 +1,398 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+<head>
+  <meta http-equiv='content-type' content='text/html; charset=utf-8' />
+  <link rel='shortcut icon' type='image/x-icon' href='imgs/shared/favicon.ico' />
+  <meta name='author' content='barrd' />
+  <style type='text/css'>
+  /*<![CDATA[*/
+    @import url('common/screen.css');
+  /*]]>*/
+  </style>  
+  <title>BWH | Acronyms &amp; Abbreviations</title>
+</head>
+<body>
+<div id='headWrapper'>
+  <div id='headLogo'>
+    <h1>BushWise Hosting</h1>
+    <p>
+    <a name='TOP' class='noLink'>making sense of the jungle out there...</a>
+    </p>
+    <div class='logoRh'>
+      EXPERIMENTAL | DEMO ONLY
+    </div>
+  </div>
+  <div id='headMenu'>
+    <ul>
+    <li>
+      <a href='index.html' title='Homepage'>Homepage</a>
+    </li><li>
+      <a href='contact.html' title='Contact Us'>Contact BushWise</a>
+    </li><li>
+      <a href='solutions.html' title='Hosting Overview'>BWH Hosting Overview</a>
+    </li><li>
+      <a href='news.html' title='News Page'>BushWise News Page</a>
+    </li>
+    </ul>
+    <div class='menuRh'>
+      <ul>
+      <li>
+        <a href='register.html' title='Register'>Register</a>
+      </li><li>
+        <a href='login.html' title='Site Login'>Site Login</a>
+      </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div id='mainContWrapper'>
+  <div id='mainCont'>
+    <h2>BWH - Acronyms &amp; Abbreviations</h2>
+    <h3>A guide to acronyms &amp; abbreviations used on this Site:</h3>
+    <p>
+    The Internet and Computer technology in general are inundated with acronyms and abbreviations, following is a collection that you will find used on this Site and many others.
+    </p>
+    <dl>
+    <dt>
+      ADSL
+    </dt><dd>
+      <b>A</b>synchronous ( or <b>A</b>symmetric ) <b>D</b>igital <b>S</b>ubscriber <b>L</b>ine
+      <br />
+      A method of routing digital data on copper telephone wires, allowing high-speed Internet access and simultaneous use of the line for voice transmission.
+    </dd><dt>
+      AS
+    </dt><dd>
+      <b>A</b>pple <b>S</b>afari
+      <br />
+      Apple Computer Inc. The Apple Mac Safari Browser / <acronym title='User Agent'>UA</acronym>.
+    </dd><dt>
+      CLI
+    </dt><dd>
+      <b>C</b>ommand <b>L</b>ine <b>I</b>nterface
+      <br />
+      A programme that a user enters data or commands for a Computer System which then displays the received output.
+    </dd><dt>
+      CMS
+    </dt><dd>
+      <b>C</b>ontent <b>M</b>anagement <b>S</b>ystem
+      <br />
+      An Online or Local Area Network - <acronym title='Local Area Network'>LAN</acronym> means of administering data by use of a Graphical User Interface - <acronym title='Graphical User Interface'>GUI</acronym>.
+    </dd><dt>
+      CSS
+    </dt><dd>
+      <b>C</b>ascading <b>S</b>tyle <b>S</b>heets
+      <br />
+      A document ( or documents ) that controls the behaviour of defined <acronym title='HyperText Markup Language'>HTML</acronym> elements.
+    </dd><dt>
+      CPU
+    </dt><dd>
+      <b>C</b>entral <b>P</b>rocessing <b>U</b>nit
+      <br />
+      The part of a computer in which operations are controlled and executed.
+    </dd><dt>
+      CSV
+    </dt><dd>
+      <b>C</b>omma <b>S</b>eperated <b>V</b>alues
+      <br />
+      A document with text that is used to transfer data from one programme to another with the fields seperated by commas.
+    </dd><dt>
+      DBA
+    </dt><dd>
+      <b>D</b>ata<b>B</b>ase <b>A</b>dministrator
+      <br />
+      A person who is responsible for the planning, creation and administration of Databases.
+    </dd><dt>
+      DHTML
+    </dt><dd>
+      <b>D</b>ynamic <b>H</b>yper<b>T</b>ext <b>M</b>arkup <b>L</b>anguage
+      <br />
+      A collection of Web Browser enhancements that enable dynamic and interactive features on Web
+      pages.
+    </dd><dt>
+      FF
+    </dt><dd>
+      <b>F</b>ire<b>F</b>ox
+      <br />
+      Mozilla Firefox. The Mozilla Foundation's Browser / <acronym title='User Agent'>UA</acronym>.
+    </dd><dt>
+      GPL
+    </dt><dd>
+      <b>G</b>eneral <b>P</b>ublic <b>L</b>icense
+      <br />
+      A basic legal document that covers Open Source Software.
+    </dd><dt>
+      GPRS
+    </dt><dd>
+      <b>G</b>eneral <b>P</b>ocket <b>R</b>adio <b>S</b>ervices
+      <br />
+       A technology for radio transmission of small packets of data, especially between cellular
+       phones and the Internet.
+    </dd><dt>
+      GUI
+    </dt><dd>
+      <b>G</b>raphical <b>U</b>ser <b>I</b>nterface
+      <br />
+      A visual way of interacting with a Computer using items such as windows, icons, and menus, used by most modern Operating Systems - <acronym title='Operating System'>OS</acronym>s.
+    </dd><dt>
+      HTML
+    </dt><dd>
+      <b>H</b>yper<b>T</b>ext <b>M</b>arkup <b>L</b>anguage  
+      <br />
+      A standardised system for tagging text files to achieve font, colour, graphic, and HyperLink effects on World Wide Web - <acronym title='World Wide Web'>WWW</acronym> pages.
+    </dd><dt>
+      HTTP
+    </dt><dd>
+      <b>H</b>yper<b>T</b>ext <b>T</b>ransport <b>P</b>rotocol
+      <br />
+      HyperText ( or Transfer ) Protocol, the data transfer protocol used on the World Wide Web - <acronym title='World Wide Web'>WWW</acronym>.
+    </dd><dt>
+      IRC
+    </dt><dd>
+      <b>I</b>nternet <b>R</b>elay <b>C</b>hat
+      <br />
+      An area of the Network or Web where users can communicate interactively with each other.
+    </dd><dt>
+      IM
+    </dt><dd>
+      <b>I</b>nstant <b>M</b>essanger
+      <br />
+      See <acronym title='Internet Relay Chat'>IRC</acronym>.
+    </dd><dt>
+      ISP
+    </dt><dd>
+      <b>I</b>nternet <b>S</b>ervice <b>P</b>rovider
+      <br />
+      The people who connect you to the Internet.
+    </dd><dt>
+      IT
+    </dt><dd>
+      <b>I</b>nformation <b>T</b>echnology
+      <br />
+      The study or use of systems ( esp. Computers and TeleCommunications ) for storing, retrieving, and sending information.
+    </dd><dt>
+      KK
+    </dt><dd>
+      <b>K</b>DE's <b>K</b>onqueror
+      <br />
+      KDE's Konqueror Browser / <acronym title='User Agent'>UA</acronym>.
+    </dd><dt>
+      LAN
+    </dt><dd>
+      <b>L</b>ocal <b>A</b>rea <b>N</b>etwork
+      <br />
+      A Computer Network that links devices within a building or group of adjacent buildings. See also - <acronym title='Wide Area Network'>WAN</acronym>.
+    </dd><dt>
+      MSIE
+    </dt><dd>
+      <b>M</b>icro<b>S</b>oft <b>I</b>nternet <b>E</b>xplorer
+      <br />
+      Microsoft's Browser / <acronym title='User Agent'>UA</acronym>.
+    </dd><dt>
+      NDA
+    </dt><dd>
+      <b>N</b>on <b>D</b>isclosure <b>A</b>greement
+      <br />
+      A legal document that is drawn up between two parties which outlines an agreement not to divulge any information pertaining to any project or venture that either party is working on contained in the document.
+    </dd><dt>
+      OSO
+    </dt><dd>
+      <b>O</b>pera <b>S</b>oftware <b>O</b>pera
+      <br />
+      Opera Software's Browser / <acronym title='User Agent'>UA</acronym>.
+    </dd><dt>
+      OS X
+    </dt><dd>
+      <b>O</b>perating <b>S</b>ystem <b>X</b>
+      <br />
+      Apple Mac's version 10 Operating System - <acronym title='Operating System'>OS</acronym>.
+    </dd><dt>
+      PDA
+    </dt><dd>
+      <b>P</b>ersonal <b>D</b>igital <b>A</b>ssistant
+      <br />
+      A palmtop computer used to store information such as addresses and telephone numbers, and for simple word processing and spreadsheeting.
+    </dd><dt>
+      PHP
+    </dt><dd>
+      <b>P</b>HP: <b>H</b>ypertext <b>P</b>reprocessor
+      <br />
+      A widely-used open source general-purpose scripting language that is especially suited for Web development and can be embedded into <acronym title='HyperText Markup Language'>HTML</acronym>.
+    </dd><dt>
+      PGP / GPG
+    </dt><dd>
+      <b>P</b>retty <b>G</b>ood <b>P</b>rivacy / <b>G</b>nu <b>P</b>rivacy <b>G</b>uard 
+      <br />
+      Software that allows military grade encryption of private data.
+    </dd><dt>
+      POP
+    </dt><dd>
+      <b>P</b>oint <b>O</b>f <b>P</b>resence
+      <br />
+      Denotes equipment that acts as an access to the Internet. Also known as <acronym title='Point of Presence'>PoP</acronym>.
+    </dd><dt>
+      PPP
+    </dt><dd>
+      <b>P</b>oint to <b>P</b>oint <b>P</b>rotocol
+      <br />
+      Allows data conforming to the Internet Protocol - <acronym title='Internet
+      Protocol'>IP</acronym> to be handled on a serial line.
+    </dd><dt>
+      RFC
+    </dt><dd>
+      <b>R</b>equest <b>F</b>or <b>C</b>omment
+      <br />
+      A document circulated on the Internet that forms the basis of a technical standard.
+    </dd><dt>
+      SFTP
+    </dt><dd>
+      <b>S</b>ecure <b>F</b>ile <b>T</b>ransfer <b>P</b>rotocol
+      <br />
+      A secure standard for the exchange of programme and data files across a Network or the Internet.
+    </dd><dt>
+      SLA
+    </dt><dd>
+      <b>S</b>ervice <b>L</b>evel <b>A</b>greement
+      <br />
+      Is that part of a service contract in which a certain level of service is agreed. An <acronym title='Service Level Contract'>SLA</acronym> is therefore <b>not</b> a type of service contract, but a <b>part</b> of a service contract. A service contract can contain zero, one or more <acronym title='Service Level Contract'>SLA</acronym>s. A contract containing <acronym title='Service Level Contract'>SLA</acronym>s is usually referred to as a <b>performance contract</b>.
+    </dd><dt>
+      SMTP
+    </dt><dd>
+      <b>S</b>imple <b>M</b>ail <b>T</b>ransfer <b>P</b>rotocol
+      <br />
+      A data transmission format used to send and receive eMail.
+    </dd><dt>
+      SQL
+    </dt><dd>
+      <b>S</b>tructured <b>Q</b>uery <b>L</b>anguage
+      <br />
+      An international standard for Database manipulation. MySQL, PostGres &amp; Oracle being three of the most common variants.
+    </dd><dt>
+      SSH
+    </dt><dd>
+      <b>S</b>ecure <b>SH</b>ell
+      <br />
+      A programme for logging into and executing commands on a remote machine which provides secure encrypted communications between two untrusted hosts over an insecure Network.
+    </dd><dt>
+      SSL
+    </dt><dd>
+      <b>S</b>ecure <b>S</b>ockets <b>L</b>ayer
+      <br />
+      A computing protocol that ensures the security of data sent via the Internet by using military grade encryption.
+    </dd><dt>
+      SVr4
+    </dt><dd>
+      <b>S</b>ystem <b>V</b> <b>r</b>evision <b>4</b>
+      <br />
+      System Five ( V ) Revision Four is a UNIX standard.
+    </dd><dt>
+      TCP&nbsp;/&nbsp;IP
+    </dt><dd>
+      <b>T</b>ransport <b>C</b>ontrol <b>P</b>rotocol / <b>I</b>nternet <b>P</b>rotocol
+      <br />
+      Used to govern the connection of Computer systems to the Internet.
+    </dd><dt>
+      UA
+    </dt><dd>
+      <b>U</b>ser <b>A</b>gent
+      <br />
+      Another term for a Browser.
+    </dd><dt>
+      VoIP
+    </dt><dd>
+      <b>V</b>oice <b>o</b>ver <b>I</b>nternet <b>P</b>rotocol
+      <br />
+      A communications protocol that allows for telephonic communication via the Internet.
+    </dd><dt>
+      WAN
+    </dt><dd>
+      <b>W</b>ide <b>A</b>rea <b>N</b>etwork
+      <br />
+      A Computer Network in which the Computers connected may be far apart, generally having a radius of half a mile or more. See also - <acronym title='Local Area Network'>LAN</acronym>.
+    </dd><dt>
+      WWW
+    </dt><dd>
+      <b>W</b>orld <b>W</b>ide <b>W</b>eb
+      <br />
+      A world wide network of interlinked Computers, Servers &amp; Networks.
+    </dd><dt>
+      XHTML
+    </dt><dd>
+      e<b>X</b>tensible <b>H</b>yper<b>T</b>ext <b>M</b>arkup <b>L</b>anguage
+      <br />
+      A <acronym title='HyperText Markup Language'>HTML</acronym> system for tagging text files to achieve font, colour, graphic, and hyperlink effects on World Wide Web - <acronym title='World Wide Web'>WWW</acronym> pages, incorporating user-defined elements.
+    </dd><dt>
+      XML
+    </dt><dd>
+      e<b>X</b>tensible <b>M</b>arkup <b>L</b>anguage
+      <br />
+      A Meta-Language that allows users to define their own customised markup languages, especially in order to display documents on the World Wide Web - <acronym title='World Wide Web'>WWW</acronym>.
+    </dd>
+    </dl>
+    <br />
+  </div>
+  <div id='vertRhNav'>
+    <ul>
+    <li class='navHeader'>
+      Hosting &amp; Solutions
+    </li><li>
+      <a href='standard_indx.html' title='Standard Hosting'>Standard WebSite Hosting</a>
+    </li><li>
+      <a href='ecommerce_indx.html' title='eCommerce Hosting'>eCommerce Hosting</a>
+    </li><li>
+      <a href='bookings_indx.html' title='Bookings Hosting'>Online Bookings Hosting</a>
+    </li><li>
+      <a href='cms_indx.html' title='CMS Hosting Details'>Content Management</a>
+    </li><li>
+      <a href='design_indx.html' title='Design &amp; Consultancy'>Design &amp; Consultancy</a>
+    </li>
+    </ul>
+    <ul>
+    <li class='navHeader'>
+      BushWise Hosting CC
+    </li><li>
+      <a href='company.html' title='Company Details'>Company Overview</a>
+    </li><li>
+      <a href='security.html' title='Security Details'>BWH Sites Security Details</a>
+    </li><li>
+      <a href='news.html' title='BWH News Page'>BushWise News Page</a>
+    </li><li>
+      <a href='contact.html' title='Contact Us'>Contact BushWise</a>
+    </li>
+    </ul>
+    <ul>
+    <li class='navHeader'>
+      BushWise Policies
+    </li><li>
+      <a href='terms_of_use.html' title='Terms of Use Policy'>Terms of Use Policy</a>
+    </li><li>
+      <a href='data_protection.html' title='Data Protection laws'>Data Protection laws</a>
+    </li><li>
+      <a href='privacy.html' title='BWH Privacy Policy'>Privacy Policy</a>
+    </li>
+    </ul>
+    <ul>
+    <li class='navHeader'>
+      BushWise Help Pages
+    </li><li class='navCurrent'>
+      Acronyms &amp; Abbreviations
+    </li><li>
+      <a href='conventions.html' title='Site Conventions'>Site Conventions</a>
+    </li><li>
+      <a href='terminology.html' title='Site Terminology Glossary'>Site Terminology Glossary</a>
+    </li>
+    </ul>
+    <br />
+  </div>
+</div>
+<div id='footer'>
+  <div class='halfFL'>
+    // Ends | <a href='#TOP' title='Top of Page'>^ Top</a> | <a href='index.html' title='Homepage'>Homepage</a> | <a href='contact.html' title='Contact Us'>Contact</a> |
+  </div>
+  <div class='halfFR txtR'>
+    &copy; BushWise Hosting &amp; Solutions 2008
+    <br />All Logos and Trademarks remain the property of their individual owners E&amp;OE
+  </div>
+  <br />
+</div>
+</body>
+</html>

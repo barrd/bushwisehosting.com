@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+<head>
+  <meta http-equiv='content-type' content='text/html; charset=utf-8' />
+  <link rel='shortcut icon' type='image/x-icon' href='imgs/shared/favicon.ico' />
+  <meta name='author' content='barrd' />
+  <style type='text/css'>
+  /*<![CDATA[*/
+    @import url('common/screen.css');
+  /*]]>*/
+  </style>  
+  <title>BWH | BushWise News Page</title>
+</head>
+<body>
+<div id='headWrapper'>
+  <div id='headLogo'>
+    <h1>BushWise Hosting</h1>
+    <p>
+    <a name='TOP' class='noLink'>making sense of the jungle out there...</a>
+    </p>
+    <div class='logoRh'>
+      EXPERIMENTAL | DEMO ONLY
+    </div>
+  </div>
+  <div id='headMenu'>
+    <ul>
+    <li>
+      <a href='index.html' title='Homepage'>Homepage</a>
+    </li><li>
+      <a href='contact.html' title='Contact Us'>Contact BushWise</a>
+    </li><li>
+      <a href='solutions.html' title='Hosting Overview'>BWH Hosting Overview</a>
+    </li><li class='menuCurrent'>
+      <a href='#' title='News Page'>BushWise News Page</a>
+    </li>
+    </ul>
+    <div class='menuRh'>
+      <ul>
+      <li>
+        <a href='register.html' title='Register'>Register</a>
+      </li><li>
+        <a href='login.html' title='Site Login'>Site Login</a>
+      </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div id='mainContWrapper'>
+  <div id='mainCont'>
+    <h2>BWH - BushWise News Page</h2>
+    <h3>What's happening at BushWise Hosting:</h3>
+    <p>
+    Ut wisi enim ad minim veniam, quis nostrud exerci taion ullamcorper suscipit lobortis nisl ut aliquip ex en commodo consequat. Duis te feugifacilisi per suscipit lobortis nisl ut aliquip ex en commodo consequat.Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
+    </p>
+    <div class='infoTbWrapper'>
+      <div class='infoTbL'>
+        This is some random text to quick brown fox jumping over a lazy dog
+      </div>
+      <div class='infoTbR'>
+        25th September 2008
+      </div>
+      <div class='infoTbBody'>
+        <p>
+        Ut wisi enim ad minim veniam, quis nostrud exerci taion ullamcorper suscipit lobortis nisl ut aliquip ex en commodo consequat. Duis te feugifacilisi per suscipit lobortis nisl ut aliquip ex en commodo consequat.Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
+        </p>
+      </div>
+    </div>
+    <div class='infoTbWrapper'>
+      <div class='infoTbL'>
+        This is a short news title for effect
+      </div>
+      <div class='infoTbR'>
+        3rd May 2008
+      </div>
+      <div class='infoTbBody'>
+        <p>
+        Ut wisi enim ad minim veniam, quis nostrud exerci taion ullamcorper suscipit lobortis nisl ut aliquip ex en commodo consequat. Duis te feugifacilisi per suscipit lobortis nisl ut aliquip ex en commodo consequat.Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
+        </p><p>
+        Ut wisi enim ad minim veniam, quis nostrud exerci taion ullamcorper suscipit lobortis nisl ut aliquip ex en commodo consequat.
+        </p><p>
+        Ut wisi enim ad minim veniam, quis nostrud exerci taion ullamcorper suscipit lobortis nisl ut aliquip ex en commodo consequat. Duis te feugifacilisi per suscipit lobortis nisl ut aliquip ex en commodo consequat.Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div id='vertRhNav'>
+    <ul>
+    <li class='navHeader'>
+      Hosting &amp; Solutions
+    </li><li>
+      <a href='standard_indx.html' title='Standard Hosting'>Standard WebSite Hosting</a>
+    </li><li>
+      <a href='ecommerce_indx.html' title='eCommerce Hosting'>eCommerce Hosting</a>
+    </li><li>
+      <a href='bookings_indx.html' title='Bookings Hosting'>Online Bookings Hosting</a>
+    </li><li>
+      <a href='cms_indx.html' title='CMS Hosting Details'>Content Management</a>
+    </li><li>
+      <a href='design_indx.html' title='Design &amp; Consultancy'>Design &amp; Consultancy</a>
+    </li>
+    </ul>
+    <ul>
+    <li class='navHeader'>
+      BushWise Hosting CC
+    </li><li>
+      <a href='company.html' title='Company Details'>Company Overview</a>
+    </li><li>
+      <a href='security.html' title='Security Details'>BWH Sites Security Details</a>
+    </li><li class='navCurrent'>
+      BushWise News Page
+    </li><li>
+      <a href='contact.html' title='Contact Us'>Contact BushWise</a>
+    </li>
+    </ul>
+    <ul>
+    <li class='navHeader'>
+      BushWise Policies
+    </li><li>
+      <a href='terms_of_use.html' title='Terms of Use Policy'>Terms of Use Policy</a>
+    </li><li>
+      <a href='data_protection.html' title='Data Protection laws'>Data Protection laws</a>
+    </li><li>
+      <a href='privacy.html' title='BWH Privacy Policy'>Privacy Policy</a>
+    </li>
+    </ul>
+    <ul>
+    <li class='navHeader'>
+      BushWise Help Pages
+    </li><li>
+      <a href='acronyms.html' title='Acronyms &amp; Abbreviations'>Acronyms &amp; Abbreviations</a>
+    </li><li>
+      <a href='conventions.html' title='Site Conventions'>Site Conventions</a>
+    </li><li>
+      <a href='terminology.html' title='Site Terminology Glossary'>Site Terminology Glossary</a>
+    </li>
+    </ul>
+    <br />
+  </div>
+</div>
+<div id='footer'>
+  <div class='halfFL'>
+    // Ends | <a href='#TOP' title='Top of Page'>^ Top</a> | <a href='index.html' title='Homepage'>Homepage</a> | <a href='contact.html' title='Contact Us'>Contact</a> |
+  </div>
+  <div class='halfFR txtR'>
+    &copy; BushWise Hosting &amp; Solutions 2008
+    <br />All Logos and Trademarks remain the property of their individual owners E&amp;OE
+  </div>
+  <br />
+</div>
+</body>
+</html>

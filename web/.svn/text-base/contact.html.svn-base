@@ -1,0 +1,156 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+<head>
+  <meta http-equiv='content-type' content='text/html; charset=utf-8' />
+  <link rel='shortcut icon' type='image/x-icon' href='imgs/shared/favicon.ico' />
+  <meta name='author' content='barrd' />
+  <style type='text/css'>
+  /*<![CDATA[*/
+    @import url('common/screen.css');
+  /*]]>*/
+  </style>  
+  <title>BWH | Contact BushWise Page</title>
+</head>
+<body>
+<div id='headWrapper'>
+  <div id='headLogo'>
+    <h1>BushWise Hosting</h1>
+    <p>
+    <a name='TOP' class='noLink'>making sense of the jungle out there...</a>
+    </p>
+    <div class='logoRh'>
+      EXPERIMENTAL | DEMO ONLY
+    </div>
+  </div>
+  <div id='headMenu'>
+    <ul>
+    <li>
+      <a href='index.html' title='Homepage'>Homepage</a>
+    </li><li class='menuCurrent'>
+      <a href='#' title='Contact'>Contact BushWise</a>
+    </li><li>
+      <a href='solutions.html' title='Hosting Overview'>BWH Hosting Overview</a>
+    </li><li>
+      <a href='news.html' title='News Page'>BushWise News Page</a>
+    </li>
+    </ul>
+    <div class='menuRh'>
+      <ul>
+      <li>
+        <a href='register.html' title='Register'>Register</a>
+      </li><li>
+        <a href='login.html' title='Site Login'>Site Login</a>
+      </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div id='mainContWrapper'>
+  <div id='mainCont'>
+    <h2>BWH - Contact BushWise Page</h2>
+    <h3>Feel the need to write, then this is the place:</h3>
+    <p>
+    All fields denoted <span class='req'>like this</span> must be completed, this will help us to help you in as efficient a manner as possible. You will ( upon a successful transmission ) be assigned a  ticket number, please use this number in all future correspondence relating to this message. Choosing a department is not strictly necessary but may expedite a reply. Thank you.
+    </p>
+    <form id='vContact'
+     enctype='multipart/form-data'
+    onsubmit='return formCheck()' 
+     onreset='return formClear()' 
+      action='mail.cgi'
+      method='post'>
+    <fieldset>
+      <label for='name'><span class='req'>Name:</span></label>
+      <input type='text' id='name' name='cName' size='32' value='' maxlength='128' class='txtInput' />
+      <label for='dept'>Send To:</label>
+      <select id='dept' name='cDept'>
+        <option value=''>General Enquires</option>
+        <option value=''>Design Department</option>
+        <option value=''>Marketing Department</option>
+        <option value=''>Sales Department</option>
+        <option value=''>Technical Department</option>
+      </select>
+      <br />
+      <label for='email'><span class='req'>eMail:</span></label>
+      <input type='text' id='email' name='cEmail' size='32' value='' maxlength='128' class='txtInput' />
+      <br />
+      <label for='subject'><span class='req'>Subject:</span></label>
+      <input type='text' id='subject' name='cSubject' size='64' value='' maxlength='128' class='txtInput' />
+      <br />
+      <label for='message'><span class='req'>Message:</span></label>
+      <textarea id='message' name='cMessage' rows='10' cols='75' class='sm'></textarea>
+      <br />
+      <button type='submit' value='send_message' name='mv_click'>Submit</button>
+      <button type='reset'>Clear Form</button>
+    </fieldset>
+    </form>
+    <h4>Further Information about Contact with BushWise:</h4>
+    <p>
+    Any information you provide to us ( <i>personally identifiable</i> or not ) is protected under our comprehensive <a href='privacy.html' title='BWH Privacy Policy'>Privacy Policy</a>. Please be aware that BushWise is committed to safeguarding your privacy Online. If in doubt, please <a href='privacy.html' title='BWH Privacy Policy'>read our Policy</a> before deciding whether you wish to supply us with any data.
+    </p>
+  </div>
+  <div id='vertRhNav'>
+    <ul>
+    <li class='navHeader'>
+      Hosting &amp; Solutions
+    </li><li>
+      <a href='standard_indx.html' title='Standard Hosting'>Standard WebSite Hosting</a>
+    </li><li>
+      <a href='ecommerce_indx.html' title='eCommerce Hosting'>eCommerce Hosting</a>
+    </li><li>
+      <a href='bookings_indx.html' title='Bookings Hosting'>Online Bookings Hosting</a>
+    </li><li>
+      <a href='cms_indx.html' title='CMS Hosting Details'>Content Management</a>
+    </li><li>
+      <a href='design_indx.html' title='Design &amp; Consultancy'>Design &amp; Consultancy</a>
+    </li>
+    </ul>
+    <ul>
+    <li class='navHeader'>
+      BushWise Hosting CC
+    </li><li>
+      <a href='company.html' title='Company Details'>Company Overview</a>
+    </li><li>
+      <a href='security.html' title='Security Details'>BWH Sites Security Details</a>
+    </li><li>
+      <a href='news.html' title='BWH News Page'>BushWise News Page</a>
+    </li><li class='navCurrent'>
+      Contact BushWise
+    </li>
+    </ul>
+    <ul>
+    <li class='navHeader'>
+      BushWise Policies
+    </li><li>
+      <a href='terms_of_use.html' title='Terms of Use Policy'>Terms of Use Policy</a>
+    </li><li>
+      <a href='data_protection.html' title='Data Protection laws'>Data Protection laws</a>
+    </li><li>
+      <a href='privacy.html' title='BWH Privacy Policy'>Privacy Policy</a>
+    </li>
+    </ul>
+    <ul>
+    <li class='navHeader'>
+      BushWise Help Pages
+    </li><li>
+      <a href='acronyms.html' title='Acronyms &amp; Abbreviations'>Acronyms &amp; Abbreviations</a>
+    </li><li>
+      <a href='conventions.html' title='Site Conventions'>Site Conventions</a>
+    </li><li>
+      <a href='terminology.html' title='Site Terminology Glossary'>Site Terminology Glossary</a>
+    </li>
+    </ul>
+    <br />
+  </div>
+</div>
+<div id='footer'>
+  <div class='halfFL'>
+    // Ends | <a href='#TOP' title='Top of Page'>^ Top</a> | <a href='index.html' title='Homepage'>Homepage</a> | <a href='contact.html' title='Contact Us'>Contact</a> |
+  </div>
+  <div class='halfFR txtR'>
+    &copy; BushWise Hosting &amp; Solutions 2008
+    <br />All Logos and Trademarks remain the property of their individual owners E&amp;OE
+  </div>
+  <br />
+</div>
+</body>
+</html>
